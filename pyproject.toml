@@ -1,0 +1,8 @@
+[project]
+name = "pricecalc"
+version = "0.1.0"
+description = "Tiny price calculator with tax and discount."
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+where = ["src"]
